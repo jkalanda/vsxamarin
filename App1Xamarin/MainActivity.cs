@@ -9,6 +9,8 @@ using Android.Widget;
 using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
+using Microsoft.AppCenter.Push;
+
 namespace App1Xamarin
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
@@ -27,9 +29,13 @@ namespace App1Xamarin
             FloatingActionButton fab = FindViewById<FloatingActionButton>(Resource.Id.fab);
             fab.Click += FabOnClick;
 
-           //JK
-            AppCenter.Start("705566c1-a732-4056-a17c-c815ac158749",
+            //JK
+           
+            AppCenter.Start("82516bc5-71f3-41f7-9f80-5a6592fc1f79",
                                typeof(Analytics), typeof(Crashes));
+
+         
+            AppCenter.Start("82516bc5-71f3-41f7-9f80-5a6592fc1f79", typeof(Push));
         }
 
         public override bool OnCreateOptionsMenu(IMenu menu)

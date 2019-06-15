@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031492992497",
+    "firebase_url": "https://xamaintest2fb.firebaseio.com",
+    "project_id": "xamaintest2fb",
+    "storage_bucket": "xamaintest2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031492992497:android:830215f94375df92",
+        "android_client_info": {
+          "package_name": "com.companyname.App1Xamarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031492992497-3ipbv0pue44bp5p0in1utabo2do4svj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2GkyexVzR1CpfQdHWJvfgCU9eSnlWies"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031492992497-3ipbv0pue44bp5p0in1utabo2do4svj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
