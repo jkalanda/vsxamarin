@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JoeK\\source\\repos\\XamarinAppTest1\\XamarinAppTest1\\XamarinAppTest1.csproj": {}
+    "C:\\Users\\JoeK\\Documents\\GitHub\\vsxamarin\\XamarinAppTest1\\XamarinAppTest1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JoeK\\source\\repos\\XamarinAppTest1\\XamarinAppTest1\\XamarinAppTest1.csproj": {
+    "C:\\Users\\JoeK\\Documents\\GitHub\\vsxamarin\\XamarinAppTest1\\XamarinAppTest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JoeK\\source\\repos\\XamarinAppTest1\\XamarinAppTest1\\XamarinAppTest1.csproj",
+        "projectUniqueName": "C:\\Users\\JoeK\\Documents\\GitHub\\vsxamarin\\XamarinAppTest1\\XamarinAppTest1.csproj",
         "projectName": "XamarinAppTest1",
-        "projectPath": "C:\\Users\\JoeK\\source\\repos\\XamarinAppTest1\\XamarinAppTest1\\XamarinAppTest1.csproj",
+        "projectPath": "C:\\Users\\JoeK\\Documents\\GitHub\\vsxamarin\\XamarinAppTest1\\XamarinAppTest1.csproj",
         "packagesPath": "C:\\Users\\JoeK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JoeK\\source\\repos\\XamarinAppTest1\\XamarinAppTest1\\obj\\",
+        "outputPath": "C:\\Users\\JoeK\\Documents\\GitHub\\vsxamarin\\XamarinAppTest1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
