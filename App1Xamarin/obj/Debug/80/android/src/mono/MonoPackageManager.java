@@ -110,6 +110,13 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "App1Xamarin.dll" comes first in this list. */
+		"App1Xamarin.dll",
+		"Microsoft.AppCenter.Analytics.Android.Bindings.dll",
+		"Microsoft.AppCenter.Analytics.dll",
+		"Microsoft.AppCenter.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.Android.Bindings.dll",
+		"Microsoft.AppCenter.Crashes.dll",
+		"Microsoft.AppCenter.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Runtime.dll",
